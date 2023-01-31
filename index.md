@@ -7,7 +7,8 @@
 | This is my clay dog it is $5 | Clay vanila chochlate cherry ice cream 7$ | This is my birds pics $10 each |
 |   	|   	|   	|
 |   	|   	|   	|
-|   	|   	|   	|
+|  
+![pokemon_cards](https://user-images.githubusercontent.com/121825718/215909874-0f6e1355-9aea-4df9-a2fd-9cf0ebde2dcc.jpeg) 	| ![my_pokemon](https://user-images.githubusercontent.com/121825718/215909903-497c5068-2bb5-4899-9334-9f7975f564db.jpeg)  	|   	|
+| Pokemon card $7 | My creation 9$ |   	|
 
-Thanks for visiting and purchasing :) 
-
+Thanks for visiting and purchasing :)
